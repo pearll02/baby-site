@@ -1,0 +1,32 @@
+h1{
+    color:#2f5d62 ;
+    font-family: 'Dancing Script', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    font-size: 70px;
+}
+p{
+    color:#5e8b7e;
+    font-weight: normal;
+    font-size: 30px;
+    font-family: 'Pacifico', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+body{
+    background-color:#dfeeea;
+}
+h3{
+    color:#2f5d62;
+    font-family: 'Satisfy', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+}
+ul{
+    color:#5e8b7e ;
+    font-weight: normal;
+    font-size: 30px;
+    font-family: 'Pacifico', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+a:hover{
+   color: cornflowerblue;
+   text-decoration-style: dotted;
+}
